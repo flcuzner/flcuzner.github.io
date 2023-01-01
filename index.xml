@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francoise Cuzner</title>
-    <link>http://example.org/</link>
+    <link>https://flcuzner.github.io/</link>
     <description>Recent content on Francoise Cuzner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>flcuzner@gmail.com (Francoise Cuzner)</managingEditor>
-    <webMaster>flcuzner@gmail.com (Francoise Cuzner)</webMaster><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>flcuzner@gmail.com (Francoise Cuzner)</webMaster><atom:link href="https://flcuzner.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
